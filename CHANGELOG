@@ -1,3 +1,5 @@
+this is a simple test
+
 13 April 2020: mitmproxy 5.1.1
     * Fixed Docker images not starting due to missing shell
 
